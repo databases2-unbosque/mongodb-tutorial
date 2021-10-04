@@ -1,0 +1,1656 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93781899999999,
+                    40.8073089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Perfect Taste"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.943046,
+                    40.807862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Event Productions Catering & Food Services"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9446889,
+                    40.8087276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sylvia'S Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9450154,
+                    40.808573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Corner Social"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9449154,
+                    40.8086991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cove Lounge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9508604,
+                    40.8111432
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Manna'S Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9503386,
+                    40.8116759
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harlem Bar-B-Q"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.949938,
+                    40.812365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hong Cheong"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.948542,
+                    40.814343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lighthouse Fishmarket"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.948343,
+                    40.8145609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mahalaxmi Food Inc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94826669999999,
+                    40.814616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rose Seeds"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9478824,
+                    40.8151724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "J. Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.946651,
+                    40.816918
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harlem Coral Llc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9462197,
+                    40.8169283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Baraka Buffet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9420895,
+                    40.8181467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Make My Cake"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9422781,
+                    40.8178187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hyacinth Haven Harlem"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9419869,
+                    40.8175016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mcdonald'S"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9419869,
+                    40.8175016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ihop"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9421715,
+                    40.8172179
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Island Spice And Southern Cuisine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94301899999999,
+                    40.816936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "To Your Health & Happiness"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94333689999999,
+                    40.8156297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cafe 22"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9439178,
+                    40.8156066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Popeyes Chicken & Biscuits"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9440224,
+                    40.8156487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Herbalife"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.943575,
+                    40.814845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Elsie'S Caribbean Cafe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9440882,
+                    40.8149339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Shrine/Yatenga"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9442596,
+                    40.8139894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Little Harlem Fried Chicken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9451146,
+                    40.8156302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Acts 3 Bagels"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9461925,
+                    40.8160812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Uptown Slices"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.946028,
+                    40.8160858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Abyssinia Ethiopian Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9464869,
+                    40.8161242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "New Crispy Bamboo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9463762,
+                    40.8161748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lil Bite'S Cafe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9465592,
+                    40.8165415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yvonne Yvonne Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94725749999999,
+                    40.8165433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Subway"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9470381,
+                    40.8152371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ma Dukes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9468201,
+                    40.813895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "American Legion Veterans Post"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9448112,
+                    40.8135933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Keur Sokhna Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94549789999999,
+                    40.8133694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Great Wall Kitchen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94552670000002,
+                    40.8132674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harlem Karibe Take Out"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9466173,
+                    40.8111377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Oui, Oui, Crepes And Pizza"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9475662,
+                    40.8098915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "White Castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94339769999999,
+                    40.8107821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "New Ocean"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9438279,
+                    40.8101851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jacob Soul Food Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94392189999999,
+                    40.810025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jimbo'S Hamburgers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9445484,
+                    40.8092015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lenox Saphire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94395420000001,
+                    40.8092046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Subway"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9432915,
+                    40.810034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lenox Coffee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94310449999999,
+                    40.8108763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Manna Restaurant Ii"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94310449999999,
+                    40.8108763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Golden Krust Caribbean Bakery & Grill"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94310449999999,
+                    40.8108763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Island Salad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94310449999999,
+                    40.8108763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "China Wok"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94310449999999,
+                    40.8108763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mcdonalds"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94310449999999,
+                    40.8108763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9429694,
+                    40.8110635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Astor Row Cafe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9427248,
+                    40.8117012
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tio Luca"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94283539999999,
+                    40.8112503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "African American Best Food"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.944605,
+                    40.813429
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Just Lorraine'S Place"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9447083,
+                    40.8137377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rusty'S Flavor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9416818,
+                    40.8131334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kennedy Fried Chicken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.939505,
+                    40.810681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harlem On Fifth - Shell'S Bistro"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9407308,
+                    40.808995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "World Class Eatery"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9386906,
+                    40.8090468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jg'S On Madison"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.936708,
+                    40.8140894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kennedy Fried Chicken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.936708,
+                    40.8140894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "New King Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.936708,
+                    40.8140894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cafe Plus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94046050000001,
+                    40.814843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Easy Corner Restaurant & Grill"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94002669999999,
+                    40.8153973
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pizza Stop"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93994789999999,
+                    40.8155067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jimbo'S Burger Palace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94025669999999,
+                    40.8150842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dunkin Donuts"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9402712,
+                    40.8147746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tower'S Cafe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93923579999999,
+                    40.8164916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "United Fried Chicken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9392905,
+                    40.8164177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Subway"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9397855,
+                    40.8157361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Miss Maude'S"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94126949999999,
+                    40.8175925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ponty Bistro"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.938581,
+                    40.8173752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "King'S Chef Chinese Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9384185,
+                    40.8169908
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Don Rico Pollo Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9388057,
+                    40.8167739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "B & B Restaurant Ii"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9379543,
+                    40.8182292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "88 Chinese Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9379721,
+                    40.8182047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "House Of Seafood Express"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.937699,
+                    40.8185813
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Makkah Pizza Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9376221,
+                    40.8186934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Grini'S Bakery"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9376491,
+                    40.8191987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Grini'S Grill & Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9367511,
+                    40.8198978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sweet Mama'S Soul Food"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9373939,
+                    40.8190144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Touch Of Dee'S"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9373939,
+                    40.8190144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lenox Fast Food"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9365102,
+                    40.8202205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kentucky Fried Chicken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9365637,
+                    40.8201488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Papa John'S"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9365637,
+                    40.8201488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jimbo'S Hamburgers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9373291,
+                    40.8206458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dunkin Donuts"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9373291,
+                    40.8206458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "King'S Pizza"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9370572,
+                    40.8206095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "108 Fast Food Corp"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9381738,
+                    40.8224212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Red Star Chinese Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9385009,
+                    40.8222455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "United Fried Chicken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.938599,
+                    40.82211110000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Home Garden Chinese Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9394446,
+                    40.8215751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cea-Lo Cafe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93951050000001,
+                    40.821488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Little Ochie Jamaican Cuisine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.939145,
+                    40.8213757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ho Lee Chinese Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.939159,
+                    40.8216897
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Reggae Sun Delights Natural Juice Bar"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9396354,
+                    40.8220958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ivory D O S  Inc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.939987,
+                    40.822336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pinky'S Jamaican And American Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9405598,
+                    40.8225635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mountain Bird"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9414927,
+                    40.8228713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Popeyes Chicken & Biscuits"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9414927,
+                    40.8228713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dunkin'  Donuts"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94182719999999,
+                    40.8226224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "City One Chinese Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9416849,
+                    40.822537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jumbo'S Hamburgers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9405196,
+                    40.8191934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Polanco Restaurant Bbq"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94047139999999,
+                    40.8192368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fu On Kitchen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9438724,
+                    40.8207066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mama Tina'S Pizza"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94477479999999,
+                    40.8208534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Queen Sheeba Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9440848,
+                    40.8194187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Londel'S Supper Club"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9460983,
+                    40.8198576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Edge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94446900000001,
+                    40.8212633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Manhatanville Coffee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94310630000001,
+                    40.8217797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jacob Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9420166,
+                    40.8221478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Margie'S Red Rose Diner"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94201369999999,
+                    40.8231374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Starbucks Coffee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94195599999999,
+                    40.823392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Peoples Choice Kitchen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93922800000001,
+                    40.8270259
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Country Pan Fried Chicken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9392579,
+                    40.826971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hot Pot Under De' Tree"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9394274,
+                    40.8262905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yong Sheng Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94058179999999,
+                    40.8251808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Subway Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.940585,
+                    40.825221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "La Nomade Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.94011490000001,
+                    40.8247261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "New Jing Hui Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9378967,
+                    40.823448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tia Melli'S Latin Kitchen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93795159999999,
+                    40.823376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Domino'S Pizza"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.938811,
+                    40.82583899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Biters Llc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93757889999999,
+                    40.8265405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harlem Juice Bar"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93757959999999,
+                    40.8291233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mamas Fried Chicken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93805429999999,
+                    40.8287532
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jimbo'S Hamburger Place"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

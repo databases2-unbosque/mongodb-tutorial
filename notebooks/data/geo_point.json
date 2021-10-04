@@ -1,0 +1,13 @@
+{
+    "geometry": {
+        "coordinates": [
+            -73.98241999999999,
+            40.579505
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "name": "Riviera Caterer"
+    },
+    "type": "Feature"
+}
