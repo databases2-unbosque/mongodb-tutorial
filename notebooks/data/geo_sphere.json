@@ -1803,7 +1803,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "City College Marshak Cafe"
+                "name": "Academia Coffee"
             },
             "type": "Feature"
         },
@@ -1816,7 +1816,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Academia Coffee"
+                "name": "City College Marshak Cafe"
             },
             "type": "Feature"
         },

@@ -1,13 +1,13 @@
 {
     "geometry": {
         "coordinates": [
-            -73.98241999999999,
-            40.579505
+            -73.8803827,
+            40.7643124
         ],
         "type": "Point"
     },
     "properties": {
-        "name": "Riviera Caterer"
+        "name": "Brunos On The Boulevard"
     },
     "type": "Feature"
 }

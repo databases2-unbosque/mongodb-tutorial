@@ -217,7 +217,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Hard Rock Cafe"
+                "name": "Nyy Steak"
             },
             "type": "Feature"
         },
@@ -230,7 +230,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Nyy Steak"
+                "name": "Hard Rock Cafe"
             },
             "type": "Feature"
         },
@@ -503,6 +503,32 @@
                 "type": "Point"
             },
             "properties": {
+                "name": "Visitors Clubhouse Kitchen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 216B Delta Suite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
                 "name": "Yankees Clubhouse Kitchen"
             },
             "type": "Feature"
@@ -529,20 +555,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Stand 224"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Stand 216B Delta Suite"
+                "name": "Ketal One Lounge Inseat Pantry Ib"
             },
             "type": "Feature"
         },
@@ -568,72 +581,20 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Mohegan Sun Sports Bar"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Stand 320 - Premio"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Stand 312"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Stand 310"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Ketal One Lounge Inseat Pantry Ib"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
                 "name": "Dugout Lounge Inseat Pantry 3B"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mohegan Sun Sports Bar"
             },
             "type": "Feature"
         },
@@ -659,7 +620,33 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Stand 321"
+                "name": "Stand 312"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 320 - Premio"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 310"
             },
             "type": "Feature"
         },
@@ -685,72 +672,20 @@
                 "type": "Point"
             },
             "properties": {
+                "name": "Stand 321"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
                 "name": "Stand 110 A"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Visitors Clubhouse Kitchen"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Stand 218A Delta Suite"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Stand 305"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Stand 324"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Stand 127 Food Court"
             },
             "type": "Feature"
         },
@@ -776,7 +711,46 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Stand 318"
+                "name": "Stand 127 Food Court"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 324"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 305"
             },
             "type": "Feature"
         },
@@ -802,7 +776,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Stand 132"
+                "name": "Stand 125 Food Court"
             },
             "type": "Feature"
         },
@@ -828,7 +802,59 @@
                 "type": "Point"
             },
             "properties": {
+                "name": "Stand 107"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
                 "name": "Stand 205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 132"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 218A Delta Suite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9265691,
+                    40.8288189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stand 213"
             },
             "type": "Feature"
         },
@@ -867,19 +893,6 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Stand 107"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
                 "name": "Sheppard'S Place  Press Kitchen"
             },
             "type": "Feature"
@@ -893,20 +906,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Stand 125 Food Court"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9265691,
-                    40.8288189
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Suite Pantry Suite 4"
+                "name": "Stand 318"
             },
             "type": "Feature"
         },
@@ -945,7 +945,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Stand 232"
+                "name": "Suite Pantry Suite 4"
             },
             "type": "Feature"
         },
@@ -958,7 +958,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Stand 213"
+                "name": "Stand 232"
             },
             "type": "Feature"
         },
@@ -6964,7 +6964,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "City College Marshak Cafe"
+                "name": "Academia Coffee"
             },
             "type": "Feature"
         },
@@ -6977,7 +6977,7 @@
                 "type": "Point"
             },
             "properties": {
-                "name": "Academia Coffee"
+                "name": "City College Marshak Cafe"
             },
             "type": "Feature"
         },
